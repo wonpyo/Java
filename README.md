@@ -1,2 +1,1 @@
-# Java
-My repository to learn Java
+# My repository to learn Java
